@@ -1,0 +1,4 @@
+﻿  Empleado.cpp
+C:\Users\rocco\Documents\Gráficas\Nómina\Empleado.cpp(12,2): warning C4091: 'typedef ': se ha omitido a la izquierda de 'direccion' cuando no hay ninguna variable declarada
+C:\Users\rocco\Documents\Gráficas\Nómina\Empleado.cpp(30,9): warning C4101: 'j': variable local sin referencia
+  Nómina.vcxproj -> C:\Users\rocco\Documents\Gráficas\Nómina\Debug\Nómina.exe
